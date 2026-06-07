@@ -15,12 +15,26 @@
 - [ ] [Installation](#Installation) 
 - [ ] [Models](#Models)
 - [ ] [Train and Test](#TrainAndTest)
-- [ ] [Results](#Results)
+- [x] [Results](#Results)
 - [ ] [Citation](#Citation)
 - [ ] [Acknowledgements](#Acknowledgements)
 
 ## <a name="datasets"></a>📊 Datasets
 
 ## <a name='results'></a> 🔎 Results
+
+<details>
+<summary>&ensp;Quantitative Comparisons (click to expand) </summary>
+<p align="center">
+<img src="./assets/quan_results.png" >
+</p>
+</details>
+
+<details>
+<summary>&ensp;Visual Comparisons (click to expand) </summary>
+<p align="center">
+<img src="./assets/qua_results.png" >
+</p>
+</details>
 
 ## <a name="acknowledgements"></a>💡 Acknowledgements
